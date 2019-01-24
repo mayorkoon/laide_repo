@@ -1,0 +1,9 @@
+button {
+	padding: 10px;
+}
+
+.jumbotron {
+	background-image: url("night.png");
+	background-size: contain;
+	padding: 50px;
+}
